@@ -108,7 +108,7 @@ export default function Home() {
                   Intelligent Battery Management
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                Unlock the future of home energy with our cutting-edge AI-driven algorithm for managing your home battery. Our sophisticated system harnesses the power of artificial intelligence to monitor, predict, and adapt to your energy needs in real-time. It's like having a virtual energy expert at your service 24/7, ensuring that your home runs efficiently and cost-effectively.
+                Unlock the future of home energy with our cutting-edge AI-driven algorithm for managing your home battery. Our sophisticated system harnesses the power of artificial intelligence to monitor, predict, and adapt to your energy needs in real-time. It&lsquo;s like having a virtual energy expert at your service 24/7, ensuring that your home runs efficiently and cost-effectively.
                 </p>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
                 Our AI-driven algorithm continuously analyzes data from your energy usage patterns, weather forecasts, and real-time market conditions. It then makes smart decisions on when to charge, discharge, or store energy, all with the goal of minimizing your energy bills while maximizing the use of clean, sustainable energy sources. With our system, you can enjoy the convenience of automated energy management while making a positive impact on the environment. Discover a new era of energy freedom and efficiency with our intelligent battery management solution.
@@ -189,7 +189,7 @@ export default function Home() {
                   </div>
                   <h3 className="text-3xl font-semibold">Proudly Queensland-Based</h3>
                   <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                  At the heart of our innovation lies a commitment to our Queensland roots. We're proud to call this sun-soaked region home, and it's reflected in our approach. Your data stays local, safeguarding your privacy. Our AI algorithm is fine-tuned to the unique energy needs of Queensland, adapting to local usage patterns and the dynamic environmental factors that make our region special. Join us in embracing Queensland's energy potential while nurturing our environment for a greener future.
+                  At the heart of our innovation lies a commitment to our Queensland roots. We&lsquo;re proud to call this sun-soaked region home, and it&lsquo;s reflected in our approach. Your data stays local, safeguarding your privacy. Our AI algorithm is fine-tuned to the unique energy needs of Queensland, adapting to local usage patterns and the dynamic environmental factors that make our region special. Join us in embracing Queensland&lsquo;s energy potential while nurturing our environment for a greener future.
                   </p>
                   <ul className="list-none mt-6">
                     <li className="py-2">
@@ -221,7 +221,7 @@ export default function Home() {
                           Tuned to Local Patterns
                           </h4>
                           <p className="text-blueGray-500">
-                          Our AI algorithm is tailored to Queensland's energy usage patterns, ensuring it aligns seamlessly with the ebb and flow of energy demands specific to our region.
+                          Our AI algorithm is tailored to Queensland&lsquo;s energy usage patterns, ensuring it aligns seamlessly with the ebb and flow of energy demands specific to our region.
                           </p>
                         </div>
                       </div>
@@ -238,7 +238,7 @@ export default function Home() {
                           Environmental Harmony
                           </h4>
                           <p className='text-blueGray-500'>
-                          We're passionate about our environment. Our system considers local environmental conditions, helping you make sustainable energy choices that benefit Queensland's unique ecosystem.
+                          We&lsquo;re passionate about our environment. Our system considers local environmental conditions, helping you make sustainable energy choices that benefit Queensland&lsquo;s unique ecosystem.
                           </p>
                         </div>
                       </div>
@@ -367,9 +367,7 @@ export default function Home() {
                       >
                         Message
                       </label>
-                      <textarea
-                        rows="4"
-                        cols="80"
+                      <textarea rows={4} cols={80}
                         className="border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full"
                         placeholder="Type a message..."
                       />
