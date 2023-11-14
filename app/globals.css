@@ -25,3 +25,23 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+/* Custom CSS */
+@layer components {
+  .masthead {
+    background: linear-gradient(to bottom, #E5E7EB 0%, #6B7280 75%, #233876 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    .pow {
+      color: #1E429F;
+    }
+    .ston {
+      color: #F3F4F6;
+    }
+  }
+  .contact {
+    background-color: #9CA3AF;
+  }
+}
