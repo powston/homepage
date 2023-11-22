@@ -88,6 +88,7 @@ export default function Home() {
                   <div className="grid grid-cols-3 gap-4 mt-10">
                   <div className="text-white text-opacity-50">
                       <Image
+                        className="rounded-lg ring-2 ring-white shadow-xl brightness-125 hover:-translate-y-1 hover:scale-110"
                         src="/images/hardware.jpg"
                         alt="Example prototype product"
                         width={500}
@@ -96,6 +97,7 @@ export default function Home() {
                     </div>
                     <div className="text-white text-opacity-50">
                       <Image
+                        className="rounded-lg ring-2 ring-white shadow-xl hover:-translate-y-1 hover:scale-110"
                         src="/images/hardware1.jpg"
                         alt="Testing prototype product"
                         width={500}
@@ -104,6 +106,7 @@ export default function Home() {
                     </div>
                     <div className="text-white text-opacity-50">
                       <Image
+                        className="rounded-lg ring-2 ring-white shadow-xl brightness-125 hover:-translate-y-1 hover:scale-110"
                         src="/images/hardware2.jpg"
                         alt="Testing prototype product"
                         width={500}
@@ -112,6 +115,7 @@ export default function Home() {
                     </div>
                     <div className="text-white text-opacity-50">
                       <Image
+                        className="rounded-lg ring-2 ring-white shadow-xl brightness-125 hover:-translate-y-1 hover:scale-110"
                         src="/images/hardware3.jpg"
                         alt="Testing prototype product"
                         width={500}
@@ -120,6 +124,7 @@ export default function Home() {
                     </div>
                     <div className="text-white text-opacity-50">
                       <Image
+                        className="rounded-lg ring-2 ring-white shadow-xl brightness-125 hover:-translate-y-1 hover:scale-110"
                         src="/images/hardware4.jpg"
                         alt="Testing prototype product"
                         width={500}
@@ -128,6 +133,7 @@ export default function Home() {
                     </div>
                     <div className="text-white text-opacity-50">
                       <Image
+                        className="rounded-lg ring-2 ring-white shadow-xl brightness-125 hover:-translate-y-1 hover:scale-110"
                         src="/images/hardware5.jpg"
                         alt="Testing prototype product"
                         width={500}
@@ -146,6 +152,7 @@ export default function Home() {
                   <hr className="my-4 border-white" />
                   <div className="text-white text-opacity-50">
                     <Image
+                      className="rounded-lg ring-2 ring-white hover:scale-125"
                       alt="Comparison of energy cost over a month"
                       src="/images/roi.png"
                       width={1000}
@@ -154,8 +161,9 @@ export default function Home() {
                   </div>
                   <div className="flex p-2">
                     <div className="w-3/4 pr-2">
-                      <div className="text-white text-opacity-50">
+                      <div className="text-white text-opacity-50 hover:scale-125">
                         <Image
+                          className="rounded-lg ring-2 ring-white"
                           alt="Comparison of energy cost over a month"
                           src="/images/roi1.jpg"
                           width={1212}
@@ -166,6 +174,7 @@ export default function Home() {
                     <div className="w-1/4">
                       <div className="text-white text-opacity-50">
                         <Image
+                          className="rounded-lg ring-2 ring-whiteh over:-translate-y-1 hover:scale-150"
                           alt="Comparison of energy cost over a month"
                           src="/images/roi2.jpg"
                           width={1370}
