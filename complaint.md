@@ -2,7 +2,7 @@
 
 **1. Introduction**
 
-Bliss.AI Pty Ltd ("Service Provider") is committed to providing high-quality energy management services and ensuring customer satisfaction. We recognize that, on occasion, clients may have concerns or complaints regarding our services. This Complaints Handling Procedure outlines the steps to address and resolve such concerns promptly and fairly.
+Bliss.AI Pty Ltd ("Service Provider") ABN 13608391288 is committed to providing high-quality energy management services and ensuring customer satisfaction. We recognize that, on occasion, clients may have concerns or complaints regarding our services. This Complaints Handling Procedure outlines the steps to address and resolve such concerns promptly and fairly.
 
 **2. Contact Information**
 
@@ -10,6 +10,7 @@ Clients can reach out to our Customer Support Team through the following channel
 
 - **Email:** support@blissai.com
 - **Phone:** 0408740869
+- **Address:** 32 Kennedy Tce Paddington QLD 4064
 
 **3. Complaint Submission**
 
