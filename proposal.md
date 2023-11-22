@@ -57,4 +57,4 @@ This document outlines the site-specific performance estimate and installation d
 **Date:** ______________________________
 
 **Conclusion:**
-This site-specific performance estimate and installation design have been tailored to meet the client's energy goals and property characteristics. The proposed system aims to maximize energy savings, reduce environmental impact, and enhance energy efficiency. Please note that our company is not an installer but will provide recommendations for your consideration and system integration.
+This site-specific performance estimate and installation design have been tailored to meet the client's energy goals and property characteristics. The proposed system aims to maximize energy savings, reduce environmental impact, and enhance energy efficiency. Please note that our company is not a solar or battery installer and this is for the energy management hardware and software used for solar and battery management.
