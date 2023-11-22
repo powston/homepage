@@ -45,6 +45,8 @@ This document outlines the site-specific performance estimate and installation d
 - **Estimated Completion Date:** [Specify Date]
 - **Inspection and Testing:** A comprehensive inspection and testing of the installed systems will be conducted before project completion.
 
+![hardware image](./public/images/hardware.jpg)
+
 **6. Additional Considerations:**
 - **Warranty:** The solar panels and battery storage system come with [Specify Warranty Period] warranties.
 - **Maintenance:** Regular maintenance checks will be recommended to ensure optimal system performance.
