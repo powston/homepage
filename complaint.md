@@ -44,7 +44,12 @@ If a client cancels their service within the trial period (if applicable) or the
 
 **9. Escalation**
 
-If a client is not satisfied with the resolution provided, they have the option to escalate the complaint to ian@blissai.com.
+If a client is not satisfied with the resolution provided, they have the option to escalate the complaint to:
+
+- Ian (Contact Email: ian@blissai.com)
+- The Office of Fair Trading (13 QGOV)[https://www.qld.gov.au/law/fair-trading] (For Queensland)
+- The Administrator (CEC) (Clean Energy Council) [https://www.cleanenergycouncil.org.au/lodge-a-complaint]
+
 
 **10. Record Keeping**
 

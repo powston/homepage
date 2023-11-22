@@ -1,10 +1,18 @@
 **Site-Specific Performance Estimate and Installation Design**
 
-**Client:** [Client's Name]
-**Property Address:** [Property Address]
+**Client:** [Client's Name] \
+**Property Address:** [Property Address] \
 **Date:** [Date]
 
+------------
+**Company:** Bliss.AI Pty Ltd \
+**ABN:** 13608391288 \
+**Address:** 32 Kennedy Tce Paddington QLD 4064 \
+**Phone:** 0408740869 \
+**Email:** support@blissai.com
+
 **Introduction:**
+
 This document outlines the site-specific performance estimate and installation design for the installation of our home energy management system at the above-mentioned property. This estimate and design are based on the specific characteristics of the property and energy consumption patterns.
 
 **1. Property Details:**
@@ -40,12 +48,13 @@ This document outlines the site-specific performance estimate and installation d
 **6. Additional Considerations:**
 - **Warranty:** The solar panels and battery storage system come with [Specify Warranty Period] warranties.
 - **Maintenance:** Regular maintenance checks will be recommended to ensure optimal system performance.
+- **Compliance:** We are committed to industry standards and adhere to the New Energy Tech Consumer Code (NETCC) for consumer protection and ethical business practices.
 
 **7. Client Approval:**
 - The client's approval is required to proceed with the installation. Please review this document and provide your written consent for the project to commence.
 
-**Client's Signature:** ______________________________
+**Client's Signature:** ______________________________\
 **Date:** ______________________________
 
 **Conclusion:**
-This site-specific performance estimate and installation design have been tailored to meet the client's energy goals and property characteristics. The proposed system aims to maximize energy savings, reduce environmental impact, and enhance energy efficiency.
+This site-specific performance estimate and installation design have been tailored to meet the client's energy goals and property characteristics. The proposed system aims to maximize energy savings, reduce environmental impact, and enhance energy efficiency. Please note that our company is not an installer but will provide recommendations for your consideration and system integration.
