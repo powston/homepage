@@ -25,14 +25,16 @@ export default function Home() {
       </nav>
 
 
-      <header className="masthead relative w-full auto min-h-[35rem] pt-36 pb-36">
-        <div className="relative w-full auto min-h-[35rem] pt-60 pb-60 bg-cover bg-center">
-          <div className="mx-auto text-center">
-            <h1 className="font-bold mx-auto my-0 uppercase bg-gradient-to-r from-white to-transparent bg-clip-text text-transparent text-8xl">
-              <span className="pow">POW</span><span className="ston">STON</span>
+      <header className="masthead relative w-full auto min-h-[15rem] pt-26 pb-26">
+        <div className="mastbackground absolute inset-0 bg-cover bg-center brightness-75 -translate-y-10"></div>
+
+        <div className="logo relative w-full auto min-h-[15rem] pt-60 pb-60 bg-cover bg-center">
+          <div className="mx-auto text-center inset-0 filter-none">
+            <h1 className="font-russo mx-auto my-0 uppercase bg-gradient-to-r from-white to-transparent bg-clip-text text-transparent text-8xl">
+              POW<span className="ston">STON</span>
             </h1>
-            <h2 className="mx-auto mt-2 mb-5 max-w-[60rem] text-3xl font-bold text-gray-800">
-            CHEAPER POWER FOR YOUR HOME
+            <h2 className="mx-auto mt-1 mb-5 max-w-[60rem] text-3xl font-bold text-gray-900">
+            SMARTER POWER SOFTWARE
             </h2>
           </div>
         </div>
